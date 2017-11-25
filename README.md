@@ -1,7 +1,7 @@
 # Numix-for-Fluxbox
 A Fluxbox theme to match the Numix GTK theme
 
-Based on the flux-numix theme by encomjones (https://github.com/encomjones/flux_numix).
+Based on the Numix GTK theme by the Numix Project (https://github.com/numixproject/numix-gtk-theme) and flux-numix theme by encomjones (https://github.com/encomjones/flux_numix).
 
 Requires the Droid Sans fonts.
 
